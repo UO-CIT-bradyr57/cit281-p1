@@ -12,7 +12,7 @@ Also, we created a documentation block to a return a random number and random st
 ```
 
 ## What I learned:
-I learned how to navigate and use the Command Line Interface (CLI). The project also taught us how to execute programs and functions using the Run and Debg Vscode options. I was introduced to Node.js, and how to run non-web server Node.js files. 
+I learned how to navigate and use the Command Line Interface (CLI). The project also taught us how to execute programs and functions using the Run and Debug Vscode options. I was introduced to Node.js, and how to run non-web server Node.js files. 
 
 ### Sample Code from Project
 Below is some sample code from the project, that highlights the main points and functions associated with it. 
