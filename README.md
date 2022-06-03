@@ -1,15 +1,15 @@
 # Project 1
 
-##Purpose:
+## Purpose:
 The purpose of the project was to use the the Command Line to create project folders.
 Also, we created a documentation block to a return a random number and random string length. 
 
-##Technologies Learned:
+## Technologies Learned:
 Command Line Interface 
 Visual Studio Code
 Non-web server Node.js
 
-##What I learned:
+## What I learned:
 I learned how to use the Command Line Interface (CLI).
 
 ### Markdown
