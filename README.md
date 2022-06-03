@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+# Project 1
 
-You can use the [editor on GitHub](https://github.com/UO-CIT-bradyr57/cit281-p1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+##Purpose:
+The purpose of the project was to use the the Command Line to create project folders.
+Also, we created a documentation block to a return a random number and random string length. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Technologies Learned:
+Command Line Interface 
+Visual Studio Code
+Non-web server Node.js
+
+##What I learned:
+I learned how to use the Command Line Interface (CLI).
 
 ### Markdown
 
